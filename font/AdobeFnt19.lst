@@ -1,0 +1,26 @@
+%!Adobe-FontList 1.19
+%Locale:0x412
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:FuturaHandwritten
+FamilyName:FuturaHandwritten
+StyleName:Medium
+FullName:FuturaHandwritten
+MenuName:FuturaHandwritten
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\USER\Desktop\tiger\Font\FuturaHandwritten.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:51012
+FileModTime:1359017016
+WeightClass:500
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,FuturaHandwritten
+NameArray:0,Win,1,FuturaHandwritten
+%EndFont
+

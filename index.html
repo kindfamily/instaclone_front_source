@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <title>KIND - TIGER</title>
+    <link rel="stylesheet" href="css/reset.css">
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="shortcut icon" href="img/tiger.png">
+    <script src="js/parallax.js"></script>
+    <script src="js/typed.min.js"></script>
+
+
+</head>
+<body>
+
+
+<section id="container">
+
+    <a href="instaclone_f_source.zip" download>
+        <section class="kindtiger">
+            <div class="face"><img src="img/face.png" alt="" class="layer" data-depth="-0.05"></div>
+            <div class="eyes"><img src="img/eyes.png" alt="" class="layer" data-depth="-0.12"></div>
+        </section>
+    </a>
+
+    <!--<span>I`am</span>-->
+    <p class="text">Kind - Tiger</p>
+
+
+</section>
+
+<script src="js/main.js"></script>
+
+
+<script>
+
+
+    var scene = document.getElementById('container');
+    var parallax = new Parallax(scene);
+
+
+    var typed = new Typed('#typed', {
+        // strings:["First sentence","Second sentence"],
+        stringsElement: '#typed-strings',
+        backSpeed: 40,
+        typeSpeed: 40,
+        loop: true,
+        shuffle: false
+    });
+
+</script>
+</body>
+</html>
